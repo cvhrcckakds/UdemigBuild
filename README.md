@@ -27,4 +27,4 @@ https://getbootstrap.com/
 https://icons.getbootstrap.com/
 
 <h1>GIF</h1>
-<img src="/assets/buildwebsite.gif">
+<img src="/img/UdemigBuild.gif">
